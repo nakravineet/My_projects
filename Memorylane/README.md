@@ -148,26 +148,7 @@ The platform includes 9 carefully crafted prompts designed to spark memory writi
 
 
 
-## 🤝 Contributing
 
-We welcome contributions! Here's how to get started:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes**
-4. **Test thoroughly**
-5. **Commit your changes**
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-6. **Push to your branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-7. **Open a Pull Request**
 
 ### Development Guidelines
 - Follow TypeScript best practices
@@ -175,17 +156,7 @@ We welcome contributions! Here's how to get started:
 - Test all new features
 - Update documentation as needed
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [Your Website](https://yourwebsite.com)
 
 ## 🙏 Acknowledgments
 
